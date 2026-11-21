@@ -7,8 +7,8 @@
 
 <hr>
 
-<p>Exploring, learning and building ideas into reality.</p>
+<p><em>Exploring, learning and building ideas into reality.</em></p>
 
-<p>ENGINEERING · ROBOTICS · TECHNOLOGY</p>
+<p>ENGINEERING  · ROBOTICS  · TECHNOLOGY</p>
 
 </div>
